@@ -1,0 +1,17 @@
+[
+    {
+      "type":"screen",
+      "address":"69",
+      "options":
+      [
+        {
+          "human": "Ligne 1",
+          "short": "line0"
+        },
+        {
+          "human": "Ligne 2",
+          "short": "line1"
+        }
+      ]
+    }
+]
